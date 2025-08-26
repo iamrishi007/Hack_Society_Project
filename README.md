@@ -1,9 +1,10 @@
 # Hack_Society_Project
 
 Hack_Society_Project is a full-stack web application designed to help users practice Data Structures and Algorithms (DSA) problems with a focus on user experience, security, and learning flow.
+![Hack_Society_Project](https://github.com/iamrishi007/Hack_Society_Project/blob/main/hack%20society.png)
 
 ## 🚀 Features
-
+https://github.com/iamrishi007/Hack_Society_Project/blob/main/hack%20society.png
 ### 🔐 User Authentication
 - Backend authentication using JWT and bcrypt
 - Secure user registration and login
